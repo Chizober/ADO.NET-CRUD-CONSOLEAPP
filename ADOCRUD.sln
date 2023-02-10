@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOCRUD", "ADOCRUD\ADOCRUD.csproj", "{0B56E567-1388-4D9F-B5D3-4B6C07D3E3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDCLASSES", "CRUDCLASSES\CRUDCLASSES.csproj", "{66889F1B-D5FA-4E2E-8F76-81F8D94A8FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B56E567-1388-4D9F-B5D3-4B6C07D3E3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B56E567-1388-4D9F-B5D3-4B6C07D3E3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B56E567-1388-4D9F-B5D3-4B6C07D3E3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B56E567-1388-4D9F-B5D3-4B6C07D3E3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66889F1B-D5FA-4E2E-8F76-81F8D94A8FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66889F1B-D5FA-4E2E-8F76-81F8D94A8FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66889F1B-D5FA-4E2E-8F76-81F8D94A8FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66889F1B-D5FA-4E2E-8F76-81F8D94A8FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270FFBB5-6086-46B3-8BEB-CF98FCA222CC}
+	EndGlobalSection
+EndGlobal
