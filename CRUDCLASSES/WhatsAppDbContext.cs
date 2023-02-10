@@ -17,7 +17,7 @@ namespace CRUDCLASSES
 
         public WhatsAppDbContext()
             : this(
-                @"Data Source=LAPTOP-3L0EUQLC\SQLEXPRESS;Initial Catalog=WhatsappD;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+                @"add your connection string here"
             ) { }
 
         public WhatsAppDbContext(string connString)
